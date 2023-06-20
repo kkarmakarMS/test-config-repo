@@ -3,4 +3,4 @@ aci-traffic:
   powershell: 90
   powershell-workflow: 100
   python: 76
-  azure-cli: 89
+  azure-cli: 20
