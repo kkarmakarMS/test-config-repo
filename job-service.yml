@@ -1,4 +1,4 @@
-sandboxes-per-worker: 200
+sandboxes-per-worker: 127
 aci-traffic:
   powershell: 90
   powershell-workflow: 100
